@@ -1,2 +1,0 @@
-# MappingComponentsPractice
-Created with CodeSandbox
